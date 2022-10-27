@@ -3,7 +3,5 @@ This is a simple example of a key generator made in python. This allows you to g
 # Help
 If you get an error saying "Module not found", type "pip install string", "pip install replit", "pip install random", "pip install hashlib"
 If this fix doesnt work please contact me on discord: MrFeast#5666
-
-Example : https://imgur.com/a/XDoJtla
 # Credits
 All code was made by *Astetzel*
